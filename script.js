@@ -1,6 +1,5 @@
 (function() {
-  
-*******************************
+// *******************************
 // START HERE IF YOU WANT A MORE CHALLENGING STARTING POINT FOR THIS ASSIGNMENT
 // *******************************
 //
